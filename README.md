@@ -8,7 +8,9 @@
 - 🐍 Python | Django | SQL | Pandas
 - 📊 Matplotlib | Seaborn | Scikit-learn
 
-### 📫 Kontakt:
-- 📩 Email: tursunbekov.biybars@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/biibars-tursunbekov](https://linkedin.com/in/biibars-tursunbekov)
+💡 **Lass uns vernetzen!**  
+Ich bin immer offen für spannende Projekte, Kollaborationen oder Gespräche über Data Science. Schreib mir gerne eine Nachricht!  
+📩 **E-Mail:** tursunbekov.biybars@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/biibars-tursunbekov](https://linkedin.com/in/biibars-tursunbekov)  
+
 

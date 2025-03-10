@@ -1,14 +1,14 @@
-# Привет! 👋 Меня зовут Biibars
+# Hallo! 👋 Ich bin Biibars  
 
-💻 Я — начинающий разработчик, интересуюсь Python, Django и SQL.  
-📊 Моя цель — стать Data Analyst.  
-🌍 Говорю на киргизском, русском и немного на английском и на немецком.  
+💻 Ich bin ein angehender Entwickler mit Interesse an Python, Django und SQL.  
+📊 Mein Ziel ist es, Data Analyst zu werden.  
+🌍 Ich spreche Kirgisisch, Russisch und etwas Deutsch sowie Englisch.  
 
-### 🔧 Технологии, которые я использую:
+### 🔧 Technologien, die ich nutze:
 - 🐍 Python | Django | SQL | Pandas
 - 📊 Matplotlib | Seaborn | Scikit-learn
 
-### 📫 Контакты:
+### 📫 Kontakt:
 - 📩 Email: tursunbekov.biybars@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/biibars-tursunbekov
+- 💼 LinkedIn: [linkedin.com/in/biibars-tursunbekov](https://linkedin.com/in/biibars-tursunbekov)
 

@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Biibars
 
-<!--
-**baubab69/baubab69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Я — начинающий разработчик, интересуюсь Python, Django и SQL.  
+📊 Моя цель — стать Data Analyst.  
+🌍 Говорю на киргизском, русском и немного на английском и на немецком.  
 
-Here are some ideas to get you started:
+### 🔧 Технологии, которые я использую:
+- 🐍 Python | Django | SQL | Pandas
+- 📊 Matplotlib | Seaborn | Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты:
+- 📩 Email: tursunbekov.biybars@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/biibars-tursunbekov
+
